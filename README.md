@@ -1,4 +1,4 @@
-![My Project Thumbnail](./images/
+![My Project Thumbnail](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/E-commerce%20Sales%20and%20Customers%20Insights.png)
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
