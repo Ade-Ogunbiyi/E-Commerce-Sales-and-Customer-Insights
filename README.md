@@ -122,14 +122,14 @@ The following business questions guided the analysis:
 - **Business Question:** How frequently do customers place orders, and which customers are the most loyal?
 - **Insight:** Analyzing order frequency helps identify loyal customers and potential churn risks.
 
-- ![Order frequency](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Frequency%20Query.png)
+  ![Order frequency](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Frequency%20Query.png)
 
-- ![Order frequency chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Frequency%20Bar%20chart.png)
+ ![Order frequency chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Frequency%20Bar%20chart.png)
 
-- ![Loyal customer query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Loyal%20Customer%20Query.png)
+  ![Loyal customer query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Loyal%20Customer%20Query.png)
 
-- ![Loyal customer table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Loyal%20customer%20table.png)
-- 
+  ![Loyal customer table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Loyal%20customer%20table.png)
+ 
 - **Key Findings:**  
   Charles Williams has the highest order count with 103 orders, followed by Diana Richardson with 97 orders, reflecting their regular shopping habits.
 
@@ -138,10 +138,10 @@ The following business questions guided the analysis:
 - **Business Question:** Which products have generated the highest total sales?
 - **Insight:** Identifying the product's highest overall sales helps to optimize marketing.
 
-- ![Product Sales query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Product%20by%20total%20sales%20query.png)
+  ![Product Sales query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Product%20by%20total%20sales%20query.png)
 
-- ![Product Sales chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Bar%20chart%20of%20Total%20Revenue%20vs%20product%20name.png)
-- 
+  ![Product Sales chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Top%20Selling%20product.png)
+  
 - **Key Findings:**  
   Canon EOS R5 Camera leads with total sales of $18,662.50, showing strong market demand.
 
