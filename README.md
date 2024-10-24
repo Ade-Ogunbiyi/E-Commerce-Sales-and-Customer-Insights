@@ -97,7 +97,10 @@ The following business questions guided the analysis:
 
 - **Business Question:** Which products have generated the most revenue over the past year?
 - **Insight:** Understanding which products are driving revenue helps prioritize inventory and marketing efforts.
+- 
 - ![query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Top%20Selling%20product%20Query.png)
+- ![bar chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Top%20Selling%20product.png)
+  
 - **Key Findings:**  
   Apple AirPods Pro leads with the highest total revenue of $11,261.22. This highlights its dominance in sales and suggests that it’s the most popular product in terms of revenue in the past year.
 
@@ -105,6 +108,11 @@ The following business questions guided the analysis:
 
 - **Business Question:** What are the different customer segments based on spending habits?
 - **Insight:** Segmenting customers allows targeted marketing strategies, enhancing customer retention.
+
+  ![Customer Segmentation](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Customer%20Segmentation%20Query.png)
+
+  ![chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Customer%20Segmentation%20Donut%20Chart.png)
+  
 - **Key Findings:**  
   97% of customers fall into the “Medium Spender” category, while only 3% are classified as “High Spenders”. This indicates that most of the customer base contributes to the total revenue with moderate purchases.
 
@@ -112,6 +120,15 @@ The following business questions guided the analysis:
 
 - **Business Question:** How frequently do customers place orders, and which customers are the most loyal?
 - **Insight:** Analyzing order frequency helps identify loyal customers and potential churn risks.
+
+- ![Order frequency](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Frequency%20Query.png)
+
+- ![Order frequency chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Frequency%20Bar%20chart.png)
+
+- ![Loyal customer query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Loyal%20Customer%20Query.png)
+
+- ![Loyal customer table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Loyal%20customer%20table.png)
+- 
 - **Key Findings:**  
   Charles Williams has the highest order count with 103 orders, followed by Diana Richardson with 97 orders, reflecting their regular shopping habits.
 
@@ -119,6 +136,11 @@ The following business questions guided the analysis:
 
 - **Business Question:** Which products have generated the highest total sales?
 - **Insight:** Identifying the product's highest overall sales helps to optimize marketing.
+
+- ![Product Sales query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Product%20by%20total%20sales%20query.png)
+
+- ![Product Sales chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Bar%20chart%20of%20Total%20Revenue%20vs%20product%20name.png)
+- 
 - **Key Findings:**  
   Canon EOS R5 Camera leads with total sales of $18,662.50, showing strong market demand.
 
@@ -126,6 +148,18 @@ The following business questions guided the analysis:
 
 - **Business Question:** How many orders are Shipped, Pending, or Canceled? What Percentage of Orders are Canceled?
 - **Insight:** Understanding order status helps in managing fulfillment and customer expectations.
+
+- ![Order Status query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Status%20Analysis%20query.png)
+
+- ![Order Status chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Status.png)
+
+- ![Percentage of shipped, pending, canceled](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Percentage%20of%20order%20status.png)
+
+- ![Percentage of order canceled query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Percentage%20of%20order%20canceled%20query.png)
+
+- ![Cancellation rate](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Canceled%20order%20rate%20donut%20chart.png)
+
+- 
 - **Key Findings:**  
   33% of orders are pending, 33% are canceled, and 34% are shipped, signaling issues with order processing.
 
@@ -133,6 +167,12 @@ The following business questions guided the analysis:
 
 - **Business Question:** What are the monthly sales trends over the last year?
 - **Insight:** Understanding revenue trends helps forecast future sales and manage inventory.
+
+- ![Revenue trend monthly query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Monthly%20Sales%20Trend%20query.png)
+
+- ![Revenue trend monthly line chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Monthly%20Sales%20Trend.png)
+
+- 
 - **Key Findings:**  
   Sales nearly doubled from December 2023 to January 2024, likely driven by holiday shopping and seasonal promotions.
 
@@ -140,6 +180,16 @@ The following business questions guided the analysis:
 
 - **Business Question:** Which products have the highest and lowest average ratings?
 - **Insight:** Understanding product ratings helps improve product offerings and customer satisfaction.
+
+- ![Product rating query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Highest%20rated%20product%20query.png)
+
+- ![Product rating table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Highest%20rated%20product.png)
+
+- ![Product rating lowest query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Lowest%20rated%20products%20query.png)
+
+- ![Product rating lowest table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Lowest%20rated%20products.png)
+
+- 
 - **Key Findings:**  
   Sony WH-1000XM4 Headphones have the highest average rating of 3.11, while several popular products like JBL Flip 5 Speaker have the lowest average rating of 2.90.
 
@@ -147,6 +197,12 @@ The following business questions guided the analysis:
 
 - **Business Question:** Which product categories are performing the best in terms of revenue?
 - **Insight:** Identifying top-performing categories helps in strategic decision-making regarding product focus.
+
+- ![Best performing category](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Best%20Performing%20Product%20Category%20query.png)
+
+- ![Best performing category histogram](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Product%20Category%20performance%20by%20Revenue.png)
+
+- 
 - **Key Findings:**  
   Wearables and Appliances are the top revenue contributors, while Photography and Electronics require further strategic improvement.
 
