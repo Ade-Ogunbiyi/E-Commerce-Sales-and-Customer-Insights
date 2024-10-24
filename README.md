@@ -150,17 +150,17 @@ The following business questions guided the analysis:
 - **Business Question:** How many orders are Shipped, Pending, or Canceled? What Percentage of Orders are Canceled?
 - **Insight:** Understanding order status helps in managing fulfillment and customer expectations.
 
-- ![Order Status query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Status%20Analysis%20query.png)
+  ![Order Status query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Status%20Analysis%20query.png)
 
-- ![Order Status chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Status.png)
+  ![Order Status chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Order%20Status.png)
 
-- ![Percentage of shipped, pending, canceled](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Percentage%20of%20order%20status.png)
+  ![Percentage of shipped, pending, canceled](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Percentage%20of%20order%20status.png)
 
-- ![Percentage of order canceled query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Percentage%20of%20order%20canceled%20query.png)
+  ![Percentage of order canceled query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Percentage%20of%20order%20canceled%20query.png)
 
-- ![Cancellation rate](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Canceled%20order%20rate%20donut%20chart.png)
+  ![Cancellation rate](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Canceled%20order%20rate%20donut%20chart.png)
 
-- 
+  
 - **Key Findings:**  
   33% of orders are pending, 33% are canceled, and 34% are shipped, signaling issues with order processing.
 
@@ -169,11 +169,11 @@ The following business questions guided the analysis:
 - **Business Question:** What are the monthly sales trends over the last year?
 - **Insight:** Understanding revenue trends helps forecast future sales and manage inventory.
 
-- ![Revenue trend monthly query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Monthly%20Sales%20Trend%20query.png)
+  ![Revenue trend monthly query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Monthly%20Sales%20Trend%20query.png)
 
-- ![Revenue trend monthly line chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Monthly%20Sales%20Trend.png)
+  ![Revenue trend monthly line chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Monthly%20Sales%20Trend.png)
 
-- 
+  
 - **Key Findings:**  
   Sales nearly doubled from December 2023 to January 2024, likely driven by holiday shopping and seasonal promotions.
 
@@ -182,15 +182,15 @@ The following business questions guided the analysis:
 - **Business Question:** Which products have the highest and lowest average ratings?
 - **Insight:** Understanding product ratings helps improve product offerings and customer satisfaction.
 
-- ![Product rating query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Highest%20rated%20product%20query.png)
+  ![Product rating query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Highest%20rated%20product%20query.png)
 
-- ![Product rating table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Highest%20rated%20product.png)
+  ![Product rating table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Highest%20rated%20product.png)
 
-- ![Product rating lowest query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Lowest%20rated%20products%20query.png)
+  ![Product rating lowest query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Lowest%20rated%20products%20query.png)
 
-- ![Product rating lowest table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Lowest%20rated%20products.png)
+ ![Product rating lowest table](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Lowest%20rated%20products.png)
 
-- 
+
 - **Key Findings:**  
   Sony WH-1000XM4 Headphones have the highest average rating of 3.11, while several popular products like JBL Flip 5 Speaker have the lowest average rating of 2.90.
 
@@ -199,11 +199,11 @@ The following business questions guided the analysis:
 - **Business Question:** Which product categories are performing the best in terms of revenue?
 - **Insight:** Identifying top-performing categories helps in strategic decision-making regarding product focus.
 
-- ![Best performing category](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Best%20Performing%20Product%20Category%20query.png)
+  ![Best performing category](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Best%20Performing%20Product%20Category%20query.png)
 
-- ![Best performing category histogram](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Product%20Category%20performance%20by%20Revenue.png)
+ ![Best performing category histogram](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Product%20Category%20performance%20by%20Revenue.png)
 
-- 
+
 - **Key Findings:**  
   Wearables and Appliances are the top revenue contributors, while Photography and Electronics require further strategic improvement.
 
