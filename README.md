@@ -99,7 +99,7 @@ The following business questions guided the analysis:
 - **Insight:** Understanding which products are driving revenue helps prioritize inventory and marketing efforts.
 - 
 - ![query](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Top%20Selling%20product%20Query.png)
-- ![bar chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Top%20Selling%20product.png)
+- ![bar chart](https://github.com/Ade-Ogunbiyi/E-Commerce-Sales-and-Customer-Insights/blob/main/Bar%20chart%20of%20Total%20Revenue%20vs%20product%20name.png)
   
 - **Key Findings:**  
   Apple AirPods Pro leads with the highest total revenue of $11,261.22. This highlights its dominance in sales and suggests that it’s the most popular product in terms of revenue in the past year.
